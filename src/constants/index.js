@@ -65,22 +65,22 @@ export const navItems = [
 const bentoSocialLinks = [
   {
     name: "Facebook",
-    href: "https://www.facebook.com/share/1BKYR3pGtQ/",
+    href: "https://www.facebook.com/iyed.belghith.747059",
     icon: fb,
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/maryam_loghmari/",
+    href: "https://www.instagram.com/iyed_belghith/",
     icon: insta,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/maryam-loghmari-maryam-221478382/",
+    href: "https://www.linkedin.com/in/iyed-belghith-040934302?",
     icon: Linked,
   },
   {
     name: "WhatsApp",
-    href: "https://wa.me/21623403068",
+    href: "https://wa.me/21699506228",
     icon: WhatsApp,
   },
 ];
@@ -222,9 +222,9 @@ export const technologies = [
 export const myProjects = [
   {
     title: 'Mini- Drone',
-    desc: 'This project develops a quadcopter using an ESP32, controlled via smartphone over Wi-Fi. The MPU6050 sensor measures motion and orientation. A PID algorithm stabilizes the drone by adjusting motor speeds. The system ensures smooth and balanced flight.',
+    desc: 'This project develops a quadcopter using an ESP32, controlled via smartphone over Wi-Fi. The MPU6050 sensor measures motion and orientation. A PID algorithm stabilizes the drone by adjusting motor speeds.',
     subdesc:
-        ' Powered by a Li-Po battery, it offers efficiency and portability. It’s a low-cost, smart drone for learning and experimentation.',
+        '  The system ensures smooth and balanced flight.',
     href: 'https://github.com/medihebtbessi/speedyGoPIDev.git',
     texture: [
       tttttttt,
@@ -241,8 +241,8 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Gesture Control Robot',
-    desc: 'This project aims to control a robotic car using an MPU6050 sensor. The orientation of the sensor allows the robot\'s direction to be controlled by tilt. The system uses an Arduino board and an L298N motor control module.',
+    title: 'Voice Control Robot',
+    desc: 'This project involves the design and development of a voice-controlled robot that operates based on spoken commands. The system uses an Arduino microcontroller as the main control unit to process and execute instructions received through a speech recognition module. A microphone captures the user’s voice, which is converted into digital signals and interpreted by the Arduino to control the robot’s motors and movements.',
     subdesc:
         ' This is a practical application of gesture control in embedded systems\'',
     href: 'https://github.com/medazizdhaya26/esprit.git',
@@ -260,10 +260,10 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Mini Manual Hydraulic Press\n',
-    desc: 'The mini manual hydraulic press is a compact and durable tool used for small pressing, bending, or forming tasks. It operates with a hand pump that generates hydraulic pressure, providing strong force with minimal effort.',
+    title: 'IOT Press\n',
+    desc: 'This project focuses on developing an Internet of Things (IoT)–based system designed to enable remote monitoring and control through internet connectivity. Using sensors and microcontrollers, the system collects real-time data and transmits it to an online platform or mobile application for analysis and control. Users can observe system status, receive alerts, and manage connected devices from any location. The project demonstrates the integration of embedded systems with cloud technology, emphasizing automation, data accessibility, and intelligent decision-making in connected environments.',
     subdesc:
-        ' Easy to use and portable, it is ideal for workshops, laboratories, and educational projects.',
+        'The project demonstrates the integration of embedded systems with cloud technology, emphasizing automation, data accessibility, and intelligent decision-making in connected environments.',
     href: 'https://etnafes.com/',
     texture: [greee
 
